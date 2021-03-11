@@ -6,7 +6,7 @@
 [![Codewars Badge](https://www.codewars.com/users/WardAndre/badges/small)](https://www.codewars.com/users/WardAndre)
 
 
-- 👨‍💻 Full Stack Web Developer
+- 👨‍💻 Front-End Developer
 
 
 
