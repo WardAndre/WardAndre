@@ -6,7 +6,7 @@
 [![Codewars Badge](https://www.codewars.com/users/WardAndre/badges/small)](https://www.codewars.com/users/WardAndre)
 
 
-- 👨‍💻 Back-End Developer
+- 👨‍💻 Desenvolvedor Back-end
 
 Profissional com mais de 3 anos de experiência em desenvolvimento front-end, incluindo 2 anos na EY (Ernst & Young), com foco em JavaScript e React. 
 
