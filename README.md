@@ -6,13 +6,11 @@
 [![Codewars Badge](https://www.codewars.com/users/WardAndre/badges/small)](https://www.codewars.com/users/WardAndre)
 
 
-- 👨‍💻 Desenvolvedor Back-end
+- 👨‍💻 Desenvolvedor de Software
 
 Profissional com mais de 3 anos de experiência em desenvolvimento front-end, incluindo 2 anos na EY (Ernst & Young), com foco em JavaScript e React. 
 
 Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP onde estou aprendendo Java, Python, inteligência artificial e banco de dados relacional.
-
-Em transição para o desenvolvimento back-end.
 
 <br>
 <div>
