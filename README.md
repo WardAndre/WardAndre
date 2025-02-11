@@ -19,5 +19,3 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP onde estou apre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
 </div>
 <br>          
-
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/20073770" />
